@@ -1,0 +1,25 @@
+/target/
+
+/imooc-dubbo-common/*.iml
+/imooc-dubbo-common/target/
+
+/imooc-dubbo-item-api/*.iml
+/imooc-dubbo-item-api/target/
+
+/imooc-dubbo-item-service/*.iml
+/imooc-dubbo-item-service/target/
+
+/imooc-dubbo-order-api/*.iml
+/imooc-dubbo-order-api/target/
+
+/imooc-dubbo-order-service/*.iml
+/imooc-dubbo-order-service/target/
+
+/imooc-dubbo-web/*.iml
+/imooc-dubbo-web/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
